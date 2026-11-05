@@ -199,7 +199,7 @@ Potential improvements include:
 
 Artificial Intelligence and Machine Learning Engineering
 
-- GitHub: [Add your GitHub profile](https://github.com/)
+- GitHub: [ GitHub profile](https://github.com/https://github.com/SahanaKS1/)
 - LinkedIn: [Sahana K S](https://www.linkedin.com/in/sahana-k-s-a2bb252a3/)
 
 ---
